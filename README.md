@@ -1,7 +1,7 @@
 # bdt-virtio-blk
 Virtio-blk Loadable Device Driver for TempleOS
 
-![Virtio-blk Loadable Device Driver for TempleOS](https://raw.githubusercontent.com/obecebo/bdt-virtio-blk/master/preview.png?)
+![Virtio-blk Loadable Device Driver for TempleOS](https://raw.githubusercontent.com/tosrevive/bdt-virtio-blk/master/preview.png?)
 
 # details
 

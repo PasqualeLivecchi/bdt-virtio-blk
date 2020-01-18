@@ -1,5 +1,8 @@
-#define VIRTIO_BLK_T_IN   0
-#define VIRTIO_BLK_T_OUT  1
+#define VIRTIO_BLK_T_IN     0
+#define VIRTIO_BLK_T_OUT    1
+#define VIRTIO_BLK_T_FLUSH  4
+
+#define VIRTIO_BLK_MAX_BLK  0x400000 // Limit blkdev to 2G max, set to NULL to use entire disk (not recommended for RedSea)
 
 class CVirtioBlk
 {
